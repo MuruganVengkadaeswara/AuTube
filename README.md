@@ -1,18 +1,20 @@
 # AuTube
 A simple batch script, utilising Youtube-dl
 
+This Will help you to Download Youtube Videos ;)
+
+  Follow this
+  
+ 
+
 READ THIS BEFORE INSTALL
 ========================
 
 
 #How to install?
-================
 
-This Will help you to Download Youtube Videos ;)
 
-  Follow this
-  
-  DISABLE ANTI-VIRUS if Necessary
+ DISABLE ANTI-VIRUS if Necessary
 
   PART 1:
   =======
