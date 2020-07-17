@@ -1,53 +1,47 @@
 # AuTube
+
 A simple batch script, utilising Youtube-dl
 
 This Will help you to Download Youtube Videos ;)
 
-  Follow this
-  
- 
+Follow this
 
-READ THIS BEFORE INSTALL
-========================
-
+# READ THIS BEFORE INSTALL
 
 #How to install?
 
+DISABLE ANTI-VIRUS if Necessary
 
- DISABLE ANTI-VIRUS if Necessary
+PART 1:
+=======
 
-  PART 1:
-  =======
+Make sure you are connected to internet.
 
-  Make sure you are connected to internet.
+Double click on install.bat
 
-  Double click on install.bat
+The python setup will open after Downloading.
 
-  The python setup will open after Downloading.
-
-  if you have python installed and set up don't worry, else
+if you have python installed and set up don't worry, else
 
             ### NOTE THIS IS CRUCIAL HERE ###
 
-  before clicking install ---> CHECK THE Add Python 3.8 to PATH
+before clicking install ---> CHECK THE Add Python 3.8 to PATH
 
-  in this step if you face any error in between like "python is not recognised...." try running this file again 	
+in this step if you face any error in between like "python is not recognised...." try running this file again
 
- the python setup opens again --> click cancel-->yes
+the python setup opens again --> click cancel-->yes
 
+double click install_sub.bat
 
-  double click install_sub.bat
+make sure every step goes without error
 
+After installation succeeds
 
-  make sure every step goes without error 
+PART 2:
+=======
 
-  After installation succeeds
+Copy the AuTube.bat to any folder you would like your videos to be saved
 
-  PART 2:
-  =======
+double click --> paste the video link
 
-  Copy the ytdl.bat to any folder you would like your videos to be saved
-
-  double click --> paste the video link
-
-  Everything is quite intuitive here.
+Everything is quite intuitive here.
